@@ -11,3 +11,5 @@ npm run install-all
 # Run both frontend + backend
 npm run dev
 ```
+
+** Personal use only
