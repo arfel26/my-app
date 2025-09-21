@@ -12,4 +12,4 @@ npm run install-all
 npm run dev
 ```
 
-** Personal use only  **
+**Personal use only**
