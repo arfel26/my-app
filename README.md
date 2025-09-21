@@ -2,7 +2,7 @@
 
 A starter template with **React (Vite)** frontend and **Express** backend.
 
-## 🚀 Quick Start
+## Quick Start
 
 ```bash
 # Install everything
