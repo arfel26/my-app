@@ -11,7 +11,7 @@ function App() {
 
   return (
     <div>
-      <h1>React + Express Boilerplate</h1>
+      <h1 className="text-3xl font-bold">React + Express Boilerplate</h1>
       <p>{message}</p>
     </div>
   );
